@@ -9,6 +9,11 @@
     <img src="https://skillicons.dev/icons?i=py,cs,java,php,html,js,css,scss,dotnet,bootstrap,jquery,django,postgres,sqlite,mysql,git,github,linux,postman,wordpress" />
   </a>
 </p>
+
+<h3 align="left">Github Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leotranviindoo&count_private=true&include_all_commits=true&show_icons=true" width="375" alt="leotranviindoo"/>
+</div>
 <!--
 **leotranviindoo/leotranviindoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
