@@ -4,17 +4,9 @@
 - 🏆 Contributed to <a href="https://github.com/odoo/odoo" target="_blank">Odoo</a>, <a href="https://github.com/Viindoo" target="_blank">Viindoo</a>, <a href="https://github.com/OCA/OpenUpgrade" target="_blank">OpenUpgrade</a>
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,java,php" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,scss" />
+    <img src="https://skillicons.dev/icons?i=py,cs,java,php,html,js,css,scss,dotnet,bootstrap,jquery,django,postgres,sqlite,mysql,git,github,linux,postman,wordpress" />
   </a>
 </p>
 <!--
